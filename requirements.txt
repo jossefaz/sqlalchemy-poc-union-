@@ -1,0 +1,5 @@
+SQLAlchemy
+testcontainers
+pymysql
+Faker
+tabulate
